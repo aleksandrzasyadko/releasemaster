@@ -1,0 +1,17 @@
+{
+  "title": "Настал конец света",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "/proxy/api/imgur/a/VgkOaq5",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "1",
+      "last_updated": "1745768249",
+      "groups": {
+        "Релизмастер": "/proxy/api/imgur/chapter/27s4R87"
+      }
+    }
+  }
+}
