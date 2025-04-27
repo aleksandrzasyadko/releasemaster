@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Релизмастер",
   "author": "",
-  "cover": "https://imgur.com/a/UXWgDOJ",
+  "cover": "/proxy/api/imgur/chapter/UXWgDOJ",
   "chapters": {
     "0": {
       "title": "0",
